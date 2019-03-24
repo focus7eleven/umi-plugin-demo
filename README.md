@@ -1,0 +1,2 @@
+# umi-plugin-demo
+demo
